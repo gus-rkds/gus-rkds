@@ -1,5 +1,4 @@
-<h1 align="center">Gustavo Alviarez</h1>
-<h2 align="center">Full-Stack Developer</h2>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3BD3F7&width=435&lines=Gustavo+Alviarez;Fullstack+developer" alt="Typing SVG" /></a></p>
 
 <!-- Social icons section -->
 <p align="center">
