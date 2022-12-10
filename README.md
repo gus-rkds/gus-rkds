@@ -22,7 +22,6 @@
   <summary><h2>⭐Top Projects</h2></summary>
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gus-rkds&repo=portofolio&theme=react)](https://github.com/gus-rkds/portofolio)
-  </br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gus-rkds&repo=algorithms&theme=react)](https://github.com/gus-rkds/algorithms)
   </br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gus-rkds&repo=themoviesplace&theme=react)](https://github.com/gus-rkds/themoviesplace)
