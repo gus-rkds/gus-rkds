@@ -21,7 +21,7 @@
 <details open> 
   <summary><h2>📘 Top Projects</h2></summary>
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gus-rkds&repo=portofolio)](https://github.com/anuraghazra/github-readme-stats)
   
   <a href="https://github.com/gus-rkds?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
