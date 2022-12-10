@@ -5,10 +5,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://portofolio-rust.vercel.app"><img width="32px" alt="portfolio" title="portfolio" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/gus_rkds"><img width="32px" alt="Twitter" title="Twitter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"/></a>
 </p>
 
 ### 🧰 Skillset
