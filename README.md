@@ -13,7 +13,7 @@
 <img align="left" alt="mySql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="mySql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
 <img align="left" alt="mySql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
-  <a align="right "href="https://twitter.com/gus_rkds"><img width="32px" alt="Twitter" title="Twitter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"/></a>
-  <a slign="right" href="https://www.linkedin.com/in/gustavo-alviarez/"><img width="32px" alt="linkedin" title="linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
+  <a "href="https://twitter.com/gus_rkds"><img width="32px" alt="Twitter" title="Twitter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"/></a>
+  <a href="https://www.linkedin.com/in/gustavo-alviarez/"><img width="32px" alt="linkedin" title="linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
 
 <br />
