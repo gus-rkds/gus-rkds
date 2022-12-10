@@ -38,3 +38,4 @@
   <a href="https://github.com/gus-rkds?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
+  <!-- credits to DenverCoder1 - https://github.com/DenverCoder1 -->
