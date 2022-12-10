@@ -1,10 +1,4 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1500&color=3BD3F7&center=true&vCenter=true&width=435&lines=Fullstack+Developer" alt="Typing SVG" /></a></p>
-<!-- Social icons section -->
-
-<p align="center">✨ Social media
-  <a href="https://twitter.com/gus_rkds"><img width="32px" alt="Twitter" title="Twitter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"/></a>
-  <a href="https://www.linkedin.com/in/gustavo-alviarez/"><img width="32px" alt="linkedin" title="linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
-</p>
 
 ### ⚔ Skillset
 
@@ -19,5 +13,7 @@
 <img align="left" alt="mySql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="mySql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
 <img align="left" alt="mySql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
+  <a align="right "href="https://twitter.com/gus_rkds"><img width="32px" alt="Twitter" title="Twitter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"/></a>
+  <a slign="right" href="https://www.linkedin.com/in/gustavo-alviarez/"><img width="32px" alt="linkedin" title="linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
 
 <br />
