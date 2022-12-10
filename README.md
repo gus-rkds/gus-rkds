@@ -27,3 +27,4 @@
 </details>
 
   <!-- credits to DenverCoder1 - https://github.com/DenverCoder1 -->
+  <!-- credits to DenverCoder1 - https://github.com/anuraghazra/github-readme-stats -->
