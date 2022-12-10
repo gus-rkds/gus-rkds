@@ -1,4 +1,5 @@
 <h1 align="center">Gustavo Alviarez</h1>
+<h3 align="center">Full-Stack Developer</h3>
 
 <!-- Social icons section -->
 <p align="center">
