@@ -2,7 +2,7 @@
 
 <!-- Social icons section -->
 ### ✨ Social media
-<p align="center">
+<p align="right">
   <a href="https://twitter.com/gus_rkds"><img width="32px" alt="Twitter" title="Twitter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"/></a>
   <a href="https://www.linkedin.com/in/gustavo-alviarez/"><img width="32px" alt="linkedin" title="linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
 </p>
