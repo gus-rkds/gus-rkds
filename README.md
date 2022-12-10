@@ -23,7 +23,6 @@
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gus-rkds&repo=portofolio&theme=react)](https://github.com/gus-rkds/portofolio)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gus-rkds&repo=algorithms&theme=react)](https://github.com/gus-rkds/algorithms)
-  </br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gus-rkds&repo=themoviesplace&theme=react)](https://github.com/gus-rkds/themoviesplace)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gus-rkds&repo=gus-rkds&theme=react)](https://github.com/gus-rkds/gus-rkds)
   
