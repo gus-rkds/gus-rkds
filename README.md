@@ -23,9 +23,7 @@
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gus-rkds&repo=portofolio&theme=react)](https://github.com/gus-rkds/portofolio)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gus-rkds&repo=algorithms&theme=react)](https://github.com/gus-rkds/algorithms)
-  </br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gus-rkds&repo=themoviesplace&theme=react)](https://github.com/gus-rkds/themoviesplace)
-  </br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gus-rkds&repo=gus-rkds&theme=react)](https://github.com/gus-rkds/gus-rkds)
   
   <a href="https://github.com/gus-rkds?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo"/></a>
