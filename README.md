@@ -1,6 +1,7 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=10&color=3BD3F7&center=true&vCenter=true&width=500&lines=Gustavo+Alviarez;Fullstack+developer" alt="Typing SVG" /></a></p>
 
 <!-- Social icons section -->
+### ✨ Social media
 <p align="center">
   <a href="https://twitter.com/gus_rkds"><img width="32px" alt="Twitter" title="Twitter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"/></a>
   <a href="https://www.linkedin.com/in/gustavo-alviarez/"><img width="32px" alt="linkedin" title="linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
