@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/gus-rkds">
+  <a href="https://github.com/gus-rkds">Gustavo Alviarez
     </a>
 </p>
 
