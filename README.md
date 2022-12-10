@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/gustavo-alviarez/"><img width="45px" alt="linkedin" title="linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a></p>
 
 <details open> 
-  <summary><h2>📘 Top Projects</h2></summary>
+  <summary><h2>⭐Top Projects</h2></summary>
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gus-rkds&repo=portofolio)](https://github.com/anuraghazra/github-readme-stats)
   
