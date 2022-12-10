@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/gus-rkds">
-    <h1>Gustavo</h1></a>
+    </a>
 </p>
 
 <!-- Social icons section -->
