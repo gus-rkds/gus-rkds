@@ -1,7 +1,7 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1500&color=3BD3F7&center=true&vCenter=true&width=435&lines=Fullstack+Developer" alt="Typing SVG" /></a></p>
 
-<p align="left"> ⚔ Skillset </p>
-<p align="right"> ⚔ Social Media </p>
+<span align="left"> ⚔ Skillset </span>
+<span align="right"> ⚔ Social Media </span>
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
