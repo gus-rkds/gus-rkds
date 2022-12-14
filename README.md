@@ -30,7 +30,7 @@
 </details>
 
   <!-- credits to DenverCoder1 - https://github.com/DenverCoder1 -->
-  <!-- credits to DenverCoder1 - https://github.com/anuraghazra/github-readme-stats -->
+  <!-- credits to anuraghazra - https://github.com/anuraghazra/github-readme-stats -->
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gus-rkds&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
   
