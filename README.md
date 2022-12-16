@@ -18,4 +18,4 @@
 <p align="right">  <a "href="https://twitter.com/gus_rkds"><img width="45px" alt="Twitter" title="Twitter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"/></a>
   <a href="https://www.linkedin.com/in/gustavo-alviarez/"><img width="45px" alt="linkedin" title="linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a></p>
 
-  <img align="right" alt="codewars" src="https://www.codewars.com/users/gus-rkds/badges/small" />
+  <img align="right" alt="codewars" src="https://www.codewars.com/users/gus-rkds/badges/large" />
