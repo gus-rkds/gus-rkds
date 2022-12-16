@@ -2,7 +2,7 @@
 
 <p>Hey there✨ I'm Gustavo Alviarez a Fullstack developer in ❤ with the programming world, welcome to my github</p>
 
-<img align="left" alt="codewars" src="https://www.codewars.com/users/gus-rkds/badges/large" />
+<img align="right" alt="codewars" src="https://www.codewars.com/users/gus-rkds/badges/large" />
 
 <br />
 
