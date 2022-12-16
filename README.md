@@ -4,9 +4,6 @@
 
 <img align="right" alt="codewars" src="https://www.codewars.com/users/gus-rkds/badges/large" />
 
-<br />
-
-
 <h2 align="left"> ⚔ Skillset </h2>
 
 <img align="left" alt="Git" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
