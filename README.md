@@ -18,16 +18,6 @@
 <p align="right">  <a "href="https://twitter.com/gus_rkds"><img width="45px" alt="Twitter" title="Twitter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"/></a>
   <a href="https://www.linkedin.com/in/gustavo-alviarez/"><img width="45px" alt="linkedin" title="linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a></p>
 
-<details open> 
-  <summary><h2>⭐Top Projects</h2></summary>
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gus-rkds&repo=portofolio&theme=react)](https://github.com/gus-rkds/portofolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gus-rkds&repo=algorithms&theme=react)](https://github.com/gus-rkds/algorithms)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gus-rkds&repo=themoviesplace&theme=react)](https://github.com/gus-rkds/themoviesplace)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gus-rkds&repo=TheBigHeads&theme=react)](https://github.com/gus-rkds/thebigheads)
-  
-  <a href="https://github.com/gus-rkds?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</details>
 
   <!-- credits to DenverCoder1 - https://github.com/DenverCoder1 -->
   <!-- credits to anuraghazra - https://github.com/anuraghazra/github-readme-stats -->
