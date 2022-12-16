@@ -1,7 +1,7 @@
 <p align="center"><a href="https://github.com/gus-rkds"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1500&color=3BD3F7&center=true&vCenter=true&width=435&lines=Fullstack+Developer" alt="Typing SVG" /></a></p>
 
 <p>Hey there✨ I'm Gustavo Alviarez a Fullstack developer in ❤ with the programming world, welcome to my github</p>
-<img align="right" alt="codewars" src="https://www.codewars.com/users/gus-rkds/badges/small" />
+
 <h2 align="left"> ⚔ Skillset </h2>
 
 <img align="left" alt="Git" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -17,3 +17,5 @@
 <img align="left" alt="mySql" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
 <p align="right">  <a "href="https://twitter.com/gus_rkds"><img width="45px" alt="Twitter" title="Twitter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"/></a>
   <a href="https://www.linkedin.com/in/gustavo-alviarez/"><img width="45px" alt="linkedin" title="linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a></p>
+
+  <img align="right" alt="codewars" src="https://www.codewars.com/users/gus-rkds/badges/small" />
