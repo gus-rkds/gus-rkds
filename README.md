@@ -2,6 +2,9 @@
 
 <p>Hey there✨ I'm Gustavo Alviarez a Fullstack developer in ❤ with the programming world, welcome to my github</p>
 
+<img align="left" alt="codewars" src="https://www.codewars.com/users/gus-rkds/badges/large" />
+
+
 <h2 align="left"> ⚔ Skillset </h2>
 
 <img align="left" alt="Git" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
