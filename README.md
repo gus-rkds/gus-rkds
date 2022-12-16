@@ -17,12 +17,3 @@
 <img align="left" alt="mySql" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
 <p align="right">  <a "href="https://twitter.com/gus_rkds"><img width="45px" alt="Twitter" title="Twitter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"/></a>
   <a href="https://www.linkedin.com/in/gustavo-alviarez/"><img width="45px" alt="linkedin" title="linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a></p>
-
-
-  <!-- credits to DenverCoder1 - https://github.com/DenverCoder1 -->
-  <!-- credits to anuraghazra - https://github.com/anuraghazra/github-readme-stats -->
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gus-rkds&theme=react)](https://github.com/gus-rkds)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gus-rkds&layout=compact&theme=react)](https://github.com/gus-rkds)
-
-  
